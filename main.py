@@ -10,7 +10,7 @@ def even_list(int_list: List[int]) -> List[int]:
     """
     # TODO: Implement even_list
     evenList = []
-    for i in List:
+    for i in int_list:
         if i%2==0:
             evenList.append(i)
         else:
